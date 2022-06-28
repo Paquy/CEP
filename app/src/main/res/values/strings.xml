@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">cep</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="cep">C.E.P</string>
+    <string name="c.e.p">Código de Endereçamento Postal</string>
+    <string name="search">BUSCAR</string>
+    <string name="test_cep">*****-***</string>
+</resources>
